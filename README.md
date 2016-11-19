@@ -23,3 +23,5 @@ package_details = npm_search.lookup_project("actual-package-name")
 -returns a large dict of all the package details of one package or http 404 error if not found. 
 -use try and except to handle this.
 
+# PREVIOUSE 2to3 CONVERSIONS HAVE FAILED - please the python3 flavour instead called: npmsearch3.
+
